@@ -119,6 +119,7 @@
   "binarydev/ha-generac",
   "binsentsu/home-assistant-solaredge-modbus",
   "BJReplay/EPA_AirQuality_HA",
+  "bkbilly/medisanabp_ble",
   "bkbilly/oralb_ble",
   "bkbilly/tpms_ble",
   "blakeblackshear/frigate-hass-integration",
@@ -1050,6 +1051,5 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "zweckj/acaia"
+  "ZsBT/hass-w1000-portal"
 ]
